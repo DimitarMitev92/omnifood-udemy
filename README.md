@@ -1,4 +1,4 @@
-#Omnifood
+# Omnifood
 
 
 
@@ -12,7 +12,7 @@ Table of Contents
     Contributing
     License
 
-##Description
+## Description
 
 Omnifood is a modern and stylish food delivery service website. It provides users with an easy way to order their favorite meals from a variety of restaurants. The website is designed to be responsive, ensuring that it looks great on different devices, including desktops, tablets, and mobile phones.
 Features
@@ -26,7 +26,7 @@ Features
     Subscription: Users can subscribe to Omnifood's weekly newsletter to receive updates and special offers.
     Contact Form: The website includes a contact form, allowing users to easily get in touch with the Omnifood team.
 
-##Installation
+## Installation
 
 To run the Omnifood website locally, follow these steps:
 
@@ -36,7 +36,7 @@ To run the Omnifood website locally, follow these steps:
 
 git clone https://github.com/DimitarMitev92/omnifood-udemy.git
 
-##Navigate to the project directory:
+## Navigate to the project directory:
 
 shell
 
