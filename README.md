@@ -32,13 +32,9 @@ To run the Omnifood website locally, follow these steps:
 
     Clone the repository:
 
-    shell
-
 git clone https://github.com/DimitarMitev92/omnifood-udemy.git
 
 ## Navigate to the project directory:
-
-shell
 
     cd omnifood-udemy
 
