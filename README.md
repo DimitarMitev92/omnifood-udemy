@@ -1,6 +1,6 @@
-Omnifood
+#Omnifood
 
-Omnifood Logo
+
 
 Welcome to the Omnifood repository! This repository contains the source code for Omnifood, a fictional food delivery service website. The website is built using HTML, CSS, and JavaScript, and it serves as a project for the Udemy course "Build Responsive Real World Websites with HTML5 and CSS3" by Jonas Schmedtmann.
 Table of Contents
@@ -12,12 +12,12 @@ Table of Contents
     Contributing
     License
 
-Description
+##Description
 
 Omnifood is a modern and stylish food delivery service website. It provides users with an easy way to order their favorite meals from a variety of restaurants. The website is designed to be responsive, ensuring that it looks great on different devices, including desktops, tablets, and mobile phones.
 Features
 
-Omnifood offers the following features:
+##Omnifood offers the following features:
 
     Easy Ordering: Users can browse through a selection of restaurants and their menus, and place orders with just a few clicks.
     Responsive Design: The website is fully responsive and adapts to different screen sizes, providing an optimal user experience on all devices.
@@ -26,7 +26,7 @@ Omnifood offers the following features:
     Subscription: Users can subscribe to Omnifood's weekly newsletter to receive updates and special offers.
     Contact Form: The website includes a contact form, allowing users to easily get in touch with the Omnifood team.
 
-Installation
+##Installation
 
 To run the Omnifood website locally, follow these steps:
 
@@ -36,7 +36,7 @@ To run the Omnifood website locally, follow these steps:
 
 git clone https://github.com/DimitarMitev92/omnifood-udemy.git
 
-Navigate to the project directory:
+##Navigate to the project directory:
 
 shell
 
